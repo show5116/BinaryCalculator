@@ -1,0 +1,10 @@
+D:\YYJ\BinCalculator\BinCalculator\obj\Debug\BinCalculator.csproj.AssemblyReference.cache
+D:\YYJ\BinCalculator\BinCalculator\obj\Debug\BinCalculator.Form1.resources
+D:\YYJ\BinCalculator\BinCalculator\obj\Debug\BinCalculator.Properties.Resources.resources
+D:\YYJ\BinCalculator\BinCalculator\obj\Debug\BinCalculator.csproj.GenerateResource.cache
+D:\YYJ\BinCalculator\BinCalculator\obj\Debug\BinCalculator.csproj.CoreCompileInputs.cache
+D:\YYJ\BinCalculator\BinCalculator\bin\Debug\BinCalculator.exe.config
+D:\YYJ\BinCalculator\BinCalculator\bin\Debug\BinCalculator.exe
+D:\YYJ\BinCalculator\BinCalculator\bin\Debug\BinCalculator.pdb
+D:\YYJ\BinCalculator\BinCalculator\obj\Debug\BinCalculator.exe
+D:\YYJ\BinCalculator\BinCalculator\obj\Debug\BinCalculator.pdb
